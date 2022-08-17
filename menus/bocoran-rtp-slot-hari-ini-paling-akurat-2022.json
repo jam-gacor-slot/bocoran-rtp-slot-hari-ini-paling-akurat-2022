@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle bocoran-rtp-slot-hari-ini-paling-akurat-2022",
+        "command": "bocoran-rtp-slot-hari-ini-paling-akurat-2022:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "bocoran-rtp-slot-hari-ini-paling-akurat-2022",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "bocoran-rtp-slot-hari-ini-paling-akurat-2022:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
